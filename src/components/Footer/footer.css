@@ -9,16 +9,17 @@
     margin-top: 80px;
     position: absolute;
     bottom: 0%;
-  
-    .logo-footer {
-      margin-bottom: 10px;
-      width: 120px;
-      margin-right: 5px;
-      filter: brightness(1000%);
-    }
-  
-    p {
-      color: white;
-      margin-top: 10px;
-    }
-  }
+
+}
+
+.logo-footer {
+    margin-bottom: 10px;
+    width: 120px;
+    margin-right: 5px;
+    filter: brightness(1000%);
+}
+
+p {
+    color: white;
+    margin-top: 10px;
+}
